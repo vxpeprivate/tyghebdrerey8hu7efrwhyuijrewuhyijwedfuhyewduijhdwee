@@ -1448,7 +1448,7 @@ runcode(function()
                    while Aura == true do
                        local args = {[1] = "TRUMPET_PLAY"}
                        game:GetService("ReplicatedStorage"):FindFirstChild("events-@easy-games/game-core:shared/game-core-networking@getEvents.Events").useAbility:FireServer(unpack(args))
-                       game:GetService("ReplicatedStorage").rbxts_include.node_modules:FindFirstChild("@rbxts").net.out._NetManaged.ldzwbijyvmlYiTzzalrcvgOmClbeekhiDc:InvokeServer()
+                       game:GetService("ReplicatedStorage").rbxts_include.node_modules:FindFirstChild("@rbxts").net.out._NetManaged.JvvvNnbpia:InvokeServer()
                        wait()
                    end
                end)
